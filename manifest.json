@@ -4,10 +4,9 @@
   "display": "standalone",
   "prefer_related_applications": false,
   "start_url": "https://nickname.freefire.gif/",
-  "scope": "/",
   "background_color": "#fff",
   "theme_color": "#4080ff",
-  "description": "This is the best fancy text maker app of 2021 which is updated from time to time by our team.",
+  "description": "This is the best fancy text maker app of 2021-2022 which is updated from time to time by our team.",
   "icons": [
     {
       "src": "https://cdn.jsdelivr.net/gh/FreeFireGiift/tst/android-icon-36x36.png",
@@ -58,8 +57,5 @@
       "density": "4.0",
       "purpose": "any maskable"
     }
-  ],
-  "serviceworker": {
-    "src": "/sw.js"
-  }
+  ]
 }
